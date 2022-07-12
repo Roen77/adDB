@@ -1,0 +1,177 @@
+{
+  "members": [
+    {
+      "number": "1",
+      "id": "winder",
+      "memberCode": 12345,
+      "registerDate": "2022-05-22 12:05:22",
+      "roacketRegister": true,
+      "registerType": "일반가입",
+      "grade": "클럽회장",
+      "register": "가입",
+      "name": "홍길동",
+      "gender": "남",
+      "birth": "1999-01-02",
+      "si": "A",
+      "gun": "B",
+      "group": "부산시/사하구",
+      "siGrade": "부산",
+      "gunguGrade": "사하구",
+      "address": "경기도 성남시 분당구",
+      "detailAdress": "714동 415호",
+      "tShirtSize": "여95",
+      "shoesSize": "230",
+      "club": "미니언즈클럽",
+      "drop": true,
+      "dropReason": "분란조장 및 회비 미납",
+      "table": [
+        {
+          "category": "시도급수",
+          "completeDate": "2022-05-22 05:15",
+          "beforeGrade": "B",
+          "afterGrade": "A",
+          "person": "부산시 사무국장",
+          "reason": "2022 부산시 대회 36조 우승"
+        },
+        {
+          "category": "시군구급수",
+          "completeDate": "2022-05-22 05:15",
+          "beforeGrade": "C",
+          "afterGrade": "A",
+          "person": "부산시 사무국장",
+          "reason": "2022 부산시 대회 36조 우승"
+        }
+      ],
+      "history": [
+        {
+          "date": "2022-07-22 05:22",
+          "before": "동그라미배드민턴클럽(경상남도/울산시)",
+          "after": "미니언즈클럽(부산시/사하구)"
+        },
+        {
+          "date": "2022-07-23 17:52",
+          "before": "미니언즈클럽(부산시/사하구)",
+          "after": "게임원클럽(서울시/강남구)"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "id": "roen",
+      "memberCode": 56813,
+      "registerDate": "2022-05-22 12:05:22",
+      "roacketRegister": true,
+      "registerType": "미가입",
+      "grade": "정회원",
+      "register": "가입",
+      "name": "홍길동",
+      "gender": "남",
+      "birth": "1999-01-02",
+      "si": "A",
+      "gun": "B",
+      "group": "부산시/사하구",
+      "siGrade": "부산",
+      "gunguGrade": "사하구",
+      "address": "경기도 성남시 분당구",
+      "detailAdress": "714동 415호",
+      "tShirtSize": "여95",
+      "shoesSize": "230",
+      "club": "미니언즈클럽",
+      "table": [
+        {
+          "category": "시도급수",
+          "completeDate": "2022-05-22 05:15",
+          "beforeGrade": "B",
+          "afterGrade": "A",
+          "person": "부산시 사무국장",
+          "reason": "2022 부산시 대회 36조 우승"
+        },
+        {
+          "category": "시군구급수",
+          "completeDate": "2022-05-22 05:15",
+          "beforeGrade": "C",
+          "afterGrade": "A",
+          "person": "부산시 사무국장",
+          "reason": "2022 부산시 대회 36조 우승"
+        }
+      ],
+      "history": [
+        {
+          "date": "2022-07-22 05:22",
+          "before": "동그라미배드민턴클럽(경상남도/울산시)",
+          "after": "미니언즈클럽(부산시/사하구)"
+        },
+        {
+          "date": "2022-07-23 17:52",
+          "before": "미니언즈클럽(부산시/사하구)",
+          "after": "게임원클럽(서울시/강남구)"
+        }
+      ]
+    }
+  ],
+  "watingmembers": [
+    {
+      "number": "1",
+      "id": "skflskfl",
+      "name": "홍길동",
+      "birth": "1999-03-02",
+      "content": "홍길동 친구 김효효입니다. 자이언트 클럽에 가입요청드려요  가입요청드려요 가입요청드려요 가입요청드려요 가입요청드려요열심히 할게요.. 님아 제발요!꼭꼭 님아 제발요!꼭꼭님아 제발요!꼭꼭님아 제발요!꼭꼭님아 제발요!꼭꼭 승인이요~~",
+      "acceptState": "normal"
+    },
+    {
+      "number": "2",
+      "id": "roskfl221@naver.comddddddㅇㅇㅇㅇㅇㅇㅇㅇㅇ",
+      "name": "홍길동",
+      "birth": "1999-03-02",
+      "content": "홍길동 친구 김효효입니다. 자이언트 클럽에 가입요청드려요~~",
+      "acceptState": "normal"
+    }
+  ],
+  "transfermembers": [
+    {
+      "number": "1",
+      "name": "홍길동(남)",
+      "birth": "1999-01-02",
+      "phone": "010-4013-1830",
+      "before": "노잼클럽",
+      "beforeArea": "부산시 해운대구",
+      "after": "게임원클럽",
+      "afterArea": "부산시 진구",
+      "requestDate": "2000-01-02",
+      "requestTime": "00:22:54",
+      "completeDate": "2000-01-16",
+      "completeTime": "00:22:54",
+      "acceptState": "wait"
+    },
+    {
+      "number": "1",
+      "name": "홍길동(남)",
+      "birth": "1999-01-02",
+      "phone": "010-4013-1830",
+      "before": "꼬부기클럽",
+      "beforeArea": "부산시 해운대구",
+      "after": "게임원클럽",
+      "afterArea": "부산시 진구",
+      "requestDate": "2000-01-02",
+      "requestTime": "00:22:54",
+      "completeDate": "2000-01-16",
+      "completeTime": "00:22:54",
+      "acceptState": "complete"
+    },
+    {
+      "number": "1",
+      "name": "한송이(여)",
+      "birth": "1999-01-02",
+      "phone": "010-4013-1830",
+      "before": "게임원클럽",
+      "beforeArea": "부산시 해운대구",
+      "after": "파이트클럽",
+      "afterArea": "부산시 진구",
+      "requestDate": "2000-01-02",
+      "requestTime": "00:22:54",
+      "completeDate": "",
+      "completeTime": "",
+      "acceptState": "normal"
+    }
+  ]
+}
