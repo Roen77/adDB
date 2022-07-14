@@ -1,26 +1,28 @@
 {
   "members": [
     {
+      "id":1,
       "number": "1",
-      "id": "winder",
+      "nickname": "winder",
+      "phone":"010-4013-1830",
       "memberCode": 12345,
       "registerDate": "2022-05-22 12:05:22",
       "roacketRegister": "가입",
       "registerType": "일반가입",
-      "grade": "클럽회장",
+      "grade": "정회원",
       "register": "가입",
       "name": "홍길동",
       "gender": "남",
       "birth": "1999-01-02",
-      "si": "A",
-      "gun": "B",
+      "si": "D",
+      "gun": "C",
       "group": "부산시/사하구",
       "siGrade": "부산",
       "gunguGrade": "사하구",
       "address": "경기도 성남시 분당구",
       "detailAdress": "714동 415호",
-      "tShirtSize": "여95",
-      "shoesSize": "230",
+      "tShirtSize": "여 95",
+      "shoesSize": "225",
       "club": "미니언즈클럽",
       "drop": true,
       "dropReason": "분란조장 및 회비 미납",
@@ -33,7 +35,7 @@
           "beforeGrade": "B",
           "afterGrade": "A",
           "person": "부산시 사무국장",
-          "reason": "2022 부산시 대회 36조 우승"
+          "reason": "2022 부산시 대회 1111조 우승"
         },
         {
           "category": "시군구급수",
@@ -58,9 +60,11 @@
       ]
     },
     {
+      "id":2,
       "number": "2",
-      "id": "roen",
+      "nickname": "roen",
       "memberCode": 56813,
+      "phone":"010-8913-1224",
       "registerDate": "2022-05-22 12:05:22",
       "roacketRegister": "미가입",
       "registerType": "미가입",
