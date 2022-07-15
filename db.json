@@ -1,33 +1,33 @@
 {
   "members": [
     {
-      "id":1,
+      "id": 1,
       "number": "1",
-      "nickname": "winder",
-      "phone":"010-4013-1830",
+      "nickname": "test",
+      "phone": "010-3333-55555",
       "memberCode": 12345,
       "registerDate": "2022-05-22 12:05:22",
       "roacketRegister": "가입",
       "registerType": "일반가입",
-      "grade": "정회원",
+      "grade": "경기이사",
       "register": "가입",
       "name": "홍길동",
       "gender": "남",
       "birth": "1999-01-02",
-      "si": "D",
-      "gun": "C",
+      "si": "B",
+      "gun": "A",
       "group": "부산시/사하구",
       "siGrade": "부산",
       "gunguGrade": "사하구",
       "address": "경기도 성남시 분당구",
-      "detailAdress": "714동 415호",
-      "tShirtSize": "여 95",
-      "shoesSize": "225",
+      "detailAdress": "600동입니다.",
+      "tShirtSize": "남 105",
+      "shoesSize": "245",
       "club": "미니언즈클럽",
       "drop": true,
       "dropReason": "분란조장 및 회비 미납",
-      "editSiGrade":true,
-      "editGunGrade":false,
+      "editSiGrade": true,
+      "editGunGrade": false,
       "table": [
         {
           "category": "시도급수",
@@ -57,14 +57,15 @@
           "before": "미니언즈클럽(부산시/사하구)",
           "after": "게임원클럽(서울시/강남구)"
         }
-      ]
+      ],
+      "content": "22"
     },
     {
-      "id":2,
+      "id": 2,
       "number": "2",
       "nickname": "roen",
       "memberCode": 56813,
-      "phone":"010-8913-1224",
+      "phone": "010-8913-1224",
       "registerDate": "2022-05-22 12:05:22",
       "roacketRegister": "미가입",
       "registerType": "미가입",
@@ -84,8 +85,8 @@
       "shoesSize": "230",
       "club": "미니언즈클럽",
       "drop": false,
-      "editSiGrade":false,
-      "editGunGrade":true,
+      "editSiGrade": false,
+      "editGunGrade": true,
       "table": [
         {
           "category": "시도급수",
