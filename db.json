@@ -207,5 +207,55 @@
       "startDate": "2022-07-18",
       "endDate": "2022-07-21"
     }
+  ],
+  "gradeOptions": [
+    {
+      "code": 0,
+      "name": "정회원"
+    },
+    {
+      "code": 1,
+      "name": "정회원"
+    },
+    {
+      "code": 2,
+      "name": "정회원"
+    }
+  ],
+  "RegionClassOptions": [
+    {
+      "code": 0,
+      "name": "A"
+    },
+    {
+      "code": 1,
+      "name": "B"
+    },
+    {
+      "code": 2,
+      "name": "C"
+    },
+    {
+      "code": 3,
+      "name": "S"
+    }
+  ],
+  "AreaClassOptions": [
+    {
+      "code": 0,
+      "name": "Aa"
+    },
+    {
+      "code": 1,
+      "name": "Bb"
+    },
+    {
+      "code": 2,
+      "name": "Cc"
+    },
+    {
+      "code": 3,
+      "name": "S"
+    }
   ]
 }
