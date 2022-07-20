@@ -222,7 +222,7 @@
       "name": "정회원"
     }
   ],
-  "RegionClassOptions": [
+  "Class": [
     {
       "code": 0,
       "name": "A"
@@ -240,22 +240,50 @@
       "name": "S"
     }
   ],
-  "AreaClassOptions": [
+  "Dress": [
     {
       "code": 0,
-      "name": "Aa"
+      "name": "75"
     },
     {
       "code": 1,
-      "name": "Bb"
+      "name": "80"
     },
     {
       "code": 2,
-      "name": "Cc"
+      "name": "85"
     },
     {
       "code": 3,
-      "name": "S"
+      "name": "90"
+    }
+  ],
+  "Shoes": [
+    {
+      "code": 0,
+      "name": "275"
+    },
+    {
+      "code": 1,
+      "name": "280"
+    },
+    {
+      "code": 2,
+      "name": "285"
+    },
+    {
+      "code": 3,
+      "name": "290"
+    }
+  ],
+  "Reason": [
+    {
+      "code": 0,
+      "name": "거절이유1"
+    },
+    {
+      "code": 1,
+      "name": "거절이유2"
     }
   ]
 }
