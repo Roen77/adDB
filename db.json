@@ -1,122 +1,32 @@
 {
-  "members": [
+  "Members": [
     {
-      "id": 1,
-      "number": "1",
-      "nickname": "test",
-      "phone": "010-3333-55555",
-      "memberCode": 12345,
-      "registerDate": "2022-05-22 12:05:22",
-      "roacketRegister": "가입",
-      "registerType": "일반가입",
-      "grade": "재무이사",
-      "register": "가입",
-      "name": "홍길동",
-      "gender": "남",
-      "birth": "1999-01-02",
-      "si": "B",
-      "gun": "A",
-      "group": "부산시/사하구",
-      "siGrade": "부산",
-      "gunguGrade": "사하구",
-      "address": "경기도 성남시 분당구",
-      "detailAdress": "600동입니다.",
-      "tShirtSize": "남 115",
-      "shoesSize": "270",
-      "club": "미니언즈클럽",
-      "drop": true,
-      "dropReason": "분란조장 및 회비 미납",
-      "editSiGrade": true,
-      "editGunGrade": false,
-      "table": [
-        {
-          "category": "시도급수",
-          "completeDate": "2022-05-22 05:15",
-          "beforeGrade": "B",
-          "afterGrade": "A",
-          "person": "부산시 사무국장",
-          "reason": "2022 부산시 대회 1111조 우승"
-        },
-        {
-          "category": "시군구급수",
-          "completeDate": "2022-05-22 05:15",
-          "beforeGrade": "C",
-          "afterGrade": "A",
-          "person": "부산시 사무국장",
-          "reason": "2022 부산시 대회 36조 우승"
-        }
-      ],
-      "history": [
-        {
-          "date": "2022-07-22 05:22",
-          "before": "동그라미배드민턴클럽(경상남도/울산시)",
-          "after": "미니언즈클럽(부산시/사하구)"
-        },
-        {
-          "date": "2022-07-23 17:52",
-          "before": "미니언즈클럽(부산시/사하구)",
-          "after": "게임원클럽(서울시/강남구)"
-        }
-      ],
-      "content": "22"
+      "areaClassName": "A",
+      "assName": "협회",
+      "birth": "19930105",
+      "gender": "F",
+      "gradeName": "클럽회장",
+      "isExp": true,
+      "joinType": "E",
+      "memberIdx": 1,
+      "memberName": "김엔",
+      "no": 1,
+      "regionClassName": "S",
+      "regionName": "서울시 강동구"
     },
     {
-      "id": 2,
-      "number": "2",
-      "nickname": "roen",
-      "memberCode": 56813,
-      "phone": "010-8913-1224",
-      "registerDate": "2022-05-22 12:05:22",
-      "roacketRegister": "미가입",
-      "registerType": "미가입",
-      "grade": "정회원",
-      "register": "가입",
-      "name": "홍길동",
-      "gender": "남",
-      "birth": "1999-01-02",
-      "si": "C",
-      "gun": "B",
-      "group": "부산시/사하구",
-      "siGrade": "부산",
-      "gunguGrade": "사하구",
-      "address": "경기도 성남시 분당구",
-      "detailAdress": "714동 415호",
-      "tShirtSize": "여95",
-      "shoesSize": "230",
-      "club": "미니언즈클럽",
-      "drop": false,
-      "editSiGrade": false,
-      "editGunGrade": true,
-      "table": [
-        {
-          "category": "시도급수",
-          "completeDate": "2022-05-22 05:15",
-          "beforeGrade": "B",
-          "afterGrade": "A",
-          "person": "부산시 사무국장",
-          "reason": "2022 부산시 대회 36조 우승"
-        },
-        {
-          "category": "시군구급수",
-          "completeDate": "2022-05-22 05:15",
-          "beforeGrade": "C",
-          "afterGrade": "A",
-          "person": "부산시 사무국장",
-          "reason": "2022 부산시 대회 36조 우승"
-        }
-      ],
-      "history": [
-        {
-          "date": "2022-07-22 05:22",
-          "before": "동그라미배드민턴클럽(경상남도/울산시)",
-          "after": "미니언즈클럽(부산시/사하구)"
-        },
-        {
-          "date": "2022-07-23 17:52",
-          "before": "미니언즈클럽(부산시/사하구)",
-          "after": "게임원클럽(서울시/강남구)"
-        }
-      ]
+      "areaClassName": "A",
+      "assName": "협회",
+      "birth": "19900405",
+      "gender": "F",
+      "gradeName": "클럽회장",
+      "isExp": false,
+      "joinType": "E",
+      "memberIdx": 2,
+      "memberName": "로엔",
+      "no": 2,
+      "regionClassName": "S",
+      "regionName": "서울시 강동구"
     }
   ],
   "watingmembers": [
@@ -243,47 +153,154 @@
   "Dress": [
     {
       "code": 0,
-      "name": "75"
+      "name": "-"
     },
     {
       "code": 1,
-      "name": "80"
+      "name": "여75"
     },
     {
       "code": 2,
-      "name": "85"
+      "name": "여80"
     },
     {
       "code": 3,
-      "name": "90"
+      "name": "여85"
+    },
+    {
+      "code": 4,
+      "name": "여90"
+    },
+    {
+      "code": 5,
+      "name": "여95"
+    },
+    {
+      "code": 6,
+      "name": "여100"
+    },
+    {
+      "code": 7,
+      "name": "여105"
+    },
+    {
+      "code": 8,
+      "name": "남95"
+    },
+    {
+      "code": 9,
+      "name": "남100"
+    },
+    {
+      "code": 10,
+      "name": "남105"
+    },
+    {
+      "code": 11,
+      "name": "남110"
+    },
+    {
+      "code": 12,
+      "name": "남115"
     }
   ],
   "Shoes": [
     {
       "code": 0,
-      "name": "275"
+      "name": "-"
     },
     {
       "code": 1,
-      "name": "280"
+      "name": "275"
     },
     {
       "code": 2,
-      "name": "285"
+      "name": "280"
     },
     {
       "code": 3,
+      "name": "285"
+    },
+    {
+      "code": 4,
       "name": "290"
     }
   ],
   "Reason": [
     {
       "code": 0,
-      "name": "거절이유1"
+      "name": "-"
     },
     {
       "code": 1,
+      "name": "거절이유1"
+    },
+    {
+      "code": 2,
       "name": "거절이유2"
+    }
+  ],
+  "Grade": [
+    {
+      "code": 0,
+      "name": "-"
+    },
+    {
+      "code": 1,
+      "name": "클럽회장"
+    },
+    {
+      "code": 2,
+      "name": "정회원"
+    },
+    {
+      "code": 3,
+      "name": "준회원"
+    }
+  ],
+  "TransferReason": [
+    {
+      "code": 0,
+      "name": "-"
+    },
+    {
+      "code": 1,
+      "name": "거주지 이전"
+    },
+    {
+      "code": 2,
+      "name": "기타"
+    },
+    {
+      "code": 3,
+      "name": "준회원"
+    }
+  ],
+  "ClubMemberWait": [
+    {
+      "id": 1,
+      "birth": "19920925",
+      "memberId": "roen",
+      "memberName": "김테스트2  ",
+      "no": 1,
+      "regMemo": "테스트태짱2",
+      "waitIdx": 4
+    },
+    {
+      "birth": "19920925",
+      "memberId": "stadmin",
+      "memberName": "김테스트3",
+      "no": 1,
+      "regMemo": "테스트태짱3",
+      "waitIdx": 5
+    },
+    {
+      "birth": "19920925",
+      "memberId": "stadmin",
+      "memberName": "김테스트3",
+      "no": 1,
+      "regMemo": "테스트태짱3",
+      "waitIdx": 5
     }
   ]
 }
