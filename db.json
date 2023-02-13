@@ -10,5 +10,96 @@
   "MinorMember": {
     "success": true,
     "message": 0
-  }
+  },
+  "HotIssue":[
+    {
+       "id":1,
+       "image":"https://picsum.photos/200/300",
+       "view":58,
+       "boardType":"자유게시판",
+       "title":"배드민턴은 이렇게 쳐라!",
+       "date":"2022.05.20  17:25:02"
+    },
+    {
+       "id":2,
+       "image":"https://picsum.photos/200/300",
+       "view":60,
+       "boardType":"중고장터",
+       "title":"스매싱때렸는데 상대편선수 머리에 맞았어요;",
+       "date":"2022.05.20  17:25:02"
+    },
+    {
+       "id":3,
+       "image":"https://picsum.photos/200/300",
+       "view":60,
+       "boardType":"중고장터",
+       "title":"스매싱때렸는데 상대편선수 머리에 맞았어요;",
+       "date":"2022.05.20  17:25:02"
+    },
+    {
+       "id":4,
+       "image":"https://picsum.photos/200/300",
+       "view":60,
+       "boardType":"중고장터",
+       "title":"스매싱때렸는데 상대편선수 머리에 맞았어요;",
+       "date":"2022.05.20  17:25:02"
+    },
+    {
+       "id":5,
+       "image":"https://picsum.photos/200/300",
+       "view":1999,
+       "boardType":"중고장터",
+       "title":"5번째 게시물입니다!",
+       "date":"2022.05.20  17:25:02"
+    },
+    {
+       "id":6,
+       "image":"https://picsum.photos/200/300",
+       "view":30,
+       "boardType":"중고장터",
+       "title":"배드민턴은 이렇게 쳐라!",
+       "date":"2022.05.20  17:25:02"
+    },
+    {
+       "id":7,
+       "image":"https://picsum.photos/200/300",
+       "view":1,
+       "boardType":"중고장터",
+       "title":"배드민턴은 이렇게 쳐라!",
+       "date":"2022.05.20  17:25:02"
+    },
+    {
+       "id":8,
+       "image":"https://picsum.photos/200/300",
+       "view":19,
+       "boardType":"중고장터",
+       "title":"배드민턴은 이렇게 쳐라!",
+       "date":"2022.05.20  17:25:02"
+    },
+    {
+       "id":9,
+       "image":"https://picsum.photos/200/300",
+       "view":299,
+       "boardType":"중고장터",
+       "title":"배드민턴은 이렇게 쳐라!",
+       "date":"2022.05.20  17:25:02"
+    },
+    {
+       "id":10,
+       "image":"https://picsum.photos/200/300",
+       "view":133,
+       "boardType":"중고장터",
+       "title":"10번쨰 게시글입니다.",
+       "date":"2022.05.20  17:25:02"
+    },
+    {
+       "id":11,
+       "image":"https://picsum.photos/200/300",
+       "view":9,
+       "boardType":"중고장터",
+       "title":"11번째 게시물",
+       "date":"2022.05.20  17:25:02"
+    }
+ ],
+
 }
